@@ -6,4 +6,4 @@ To access the exercise, code and results, open the Report.pdf file.
 
 ## Course Cover:
 
-![Course Cover SNS_2023_Neuron_Workshop png](https://github.com/Sepehr2001/From-single-neuron-to-learning-in-networks-workshop/assets/101628099/d33d7b58-0f8a-42e5-bc21-1e63f9ebd11c)
+![Course Cover SNS_2023_Neuron_Workshop png](https://uut.ac.ir/files/publicrelations/images/1401-1/10/SNS_2023_Neuron_Workshop.png.jpg)
